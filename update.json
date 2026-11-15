@@ -1,7 +1,7 @@
 {
-  "app_name": "XYLER PRIME",
-  "latest_version": "1.0.1",
-  "download_url": "https://www.mediafire.com/ISI_LINK_APK",
+  "nama_aplikasi": "XYLER PRIME",
+  "versi_terbaru": "1.0.1",
+  "url_unduhan": "https://www.mediafire.com/ISI_LINK_APK",
   "update_message": "Versi terbaru tersedia!",
   "force_update": true
 }
